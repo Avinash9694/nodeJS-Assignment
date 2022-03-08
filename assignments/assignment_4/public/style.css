@@ -1,0 +1,22 @@
+.box1{
+    display: flex;
+}
+.box2{
+    margin:2px;
+    border: 1px solid white;
+}
+body{
+    background-color: black;
+    
+}
+.null{
+    color: yellow;
+}
+
+.promoted{
+    color: green;
+}
+
+.demoted{
+    color: red;
+}
